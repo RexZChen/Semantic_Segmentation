@@ -1,0 +1,11 @@
+- Organized data preprocessing into one file. See preprocessing file for specifics
+- Trained own fcn and saved model. (not so good, but meh)
+- Created a visualization file for mapping predictions back to rgb and displaying it. 
+------------------------------------------------ sean xie 12-1-19 8：12 pm
+modified My_FCNN. made too many changes so i started a new file, called fcn-mod.ipynb. 
+the file loaded data, mapped the rgb channel to pixels, and resized images. Then fed the data into the same fcnn from My_FCNN.ipynb.
+The dimensions are ok and the model was running; but then colab crashed before i could see results. It said I didn't have enough ram.
+------------------------------------------------ sean xie 11/30/1:55 am
+looked at docs and tried to use deeplab on pascal VOC dataset
+also did fnc but it wasn't very impressive at all. look on the official docs page and you might be able to do better than i did
+------------------------------------------------ sean xie 11/23/19 7:30 pm
