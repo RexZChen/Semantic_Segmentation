@@ -1,6 +1,9 @@
 Repo for Semantic Segmentation
 
-Created on Nov. 23. 2019
+Created on Oct. 28. 2019
 
-Use pascal_voc.py on https://gluon-cv.mxnet.io/build/examples_datasets/pascal_voc.html to obtain dataset.
+We developed several different versions of models with different input formats, see FCN with different versions above.
 
+Our poster is uploaded as 'anly-590 poster.pdf' and link is https://github.com/RexZChen/Semantic_Segmentation/blob/master/anly-590%20poster.pdf
+
+Our write-up is uploaded as 'anly-590 write-up.pdf' and link is https://github.com/RexZChen/Semantic_Segmentation/blob/master/anly-590%20write-up.pdf
